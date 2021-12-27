@@ -29,6 +29,7 @@
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
     </ul>
     <span>Dieng SYLLA</span>
+     <span>Dieng cherié SYLLA</span>
   </div>
 </template>
 
