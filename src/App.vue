@@ -9,6 +9,7 @@
       <div> bb niam nala d </div>
       <div> bb niam nala d </div>
       <div> bb niam nala da </div>
+      <span>cheikh mou dieng cheikh</span>
       <router-link to="/about">About</router-link>
     </div>
     <router-view/>
