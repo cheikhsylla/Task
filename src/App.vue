@@ -2,14 +2,8 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">Home</router-link> |
-      <div>cheikh SYLLA</div>
-      <span>Merci</span>
-      <div>BB dieng</div>
-      <div>BB cheikh</div>
-      <div> bb niam nala d </div>
-      <div> bb niam nala d </div>
-      <div> bb niam nala da </div>
-      <span>cheikh mou dieng cheikh</span>
+ 
+ <span> I love my wife</span>
       <router-link to="/about">About</router-link>
     </div>
     <router-view/>
