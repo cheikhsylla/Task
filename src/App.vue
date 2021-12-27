@@ -4,6 +4,8 @@
       <router-link to="/">Home</router-link> |
       <div>cheikh SYLLA</div>
       <span>Merci</span>
+      <div>BB dieng</div>
+      <div>BB cheikh</div>
       <router-link to="/about">About</router-link>
     </div>
     <router-view/>
