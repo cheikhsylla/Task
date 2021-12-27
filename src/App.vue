@@ -8,7 +8,7 @@
       <div>BB cheikh</div>
       <div> bb niam nala d </div>
       <div> bb niam nala d </div>
-      <div> bb niam nala d </div>
+      <div> bb niam nala da </div>
       <router-link to="/about">About</router-link>
     </div>
     <router-view/>
