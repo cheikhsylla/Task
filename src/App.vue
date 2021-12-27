@@ -3,10 +3,11 @@
     <div id="nav">
       <router-link to="/">Home</router-link> |
  
- <span> I love my wife</span>
+    <span> change on coming...</span>
       <router-link to="/about">About</router-link>
     </div>
     <router-view/>
+
   </div>
 </template>
 
